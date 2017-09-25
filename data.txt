@@ -1,0 +1,12 @@
+{
+  'mark': [
+    { name: 'waffle', price: '80', quantity: '2'},
+    { name: 'blender', price: '200', quantity: '1'},
+    { name: 'knife', price: '10', quantity: '4'}
+  ],
+  'nikita': [
+    { name: 'waffle', price: '800', quantity: '4'},
+    { name: 'blender', price: '20', quantity: '3'},
+    { name: 'knife', price: '150', quantity: '2'}
+  ]
+}
